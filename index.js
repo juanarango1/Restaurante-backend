@@ -20,8 +20,9 @@ app.get('/modificar', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('¡Bienvenido al servidor!');
+  res.send('<h1>¡Bienvenido al servidor!</h1>');
 });
+
 
 
 app.put('/modificar/:id', (req, res) => {
