@@ -1,0 +1,235 @@
+[
+  {
+    "mesero": "oscar",
+    "productos": [
+      {
+        "nombre": "Papa guisada",
+        "cantidad": "3",
+        "precioUnitario": "15000"
+      }
+    ],
+    "total": 45000,
+    "id": "1711659171435"
+  },
+  {
+    "mesero": "oscar",
+    "productos": [
+      {
+        "nombre": "Arepa",
+        "cantidad": "10",
+        "precioUnitario": "50000"
+      }
+    ],
+    "total": 500000,
+    "id": "1711659202114"
+  },
+  {
+    "mesero": "juan",
+    "productos": [
+      {
+        "nombre": "Papa guisada",
+        "cantidad": "16",
+        "precioUnitario": "15000"
+      }
+    ],
+    "total": 240000,
+    "id": "1711659285317"
+  },
+  {
+    "mesero": "aaa",
+    "productos": [
+      {
+        "nombre": "Arepa",
+        "cantidad": "2",
+        "precioUnitario": "50000"
+      }
+    ],
+    "total": 100000,
+    "id": "1711659313013"
+  },
+  {
+    "mesero": "JUAN DIEGO",
+    "productos": [
+      {
+        "nombre": "Arepa",
+        "cantidad": "2",
+        "precioUnitario": "50000"
+      },
+      {
+        "nombre": "Papa guisada",
+        "cantidad": "2",
+        "precioUnitario": "15000"
+      }
+    ],
+    "total": 130000,
+    "id": "1711660766844"
+  },
+  {
+    "mesero": "diego",
+    "productos": [
+      {
+        "nombre": "Arepa",
+        "cantidad": "22",
+        "precioUnitario": "50000"
+      }
+    ],
+    "total": 1100000,
+    "id": "1711660933812"
+  },
+  {
+    "mesero": "diego",
+    "productos": [
+      {
+        "nombre": "Arepa",
+        "cantidad": "22",
+        "precioUnitario": "50000"
+      }
+    ],
+    "total": 1100000,
+    "id": "1711660968828"
+  },
+  {
+    "mesero": "juan esteban",
+    "productos": [
+      {
+        "nombre": "Arroz Mixto",
+        "cantidad": "2",
+        "precioUnitario": "35000"
+      }
+    ],
+    "total": 70000,
+    "id": "1711660996685"
+  },
+  {
+    "mesero": "andres",
+    "productos": [
+      {
+        "nombre": "Papa guisada",
+        "cantidad": "3",
+        "precioUnitario": "15000"
+      }
+    ],
+    "total": 45000,
+    "id": "1711663511905"
+  },
+  {
+    "mesero": "JUANDIEGO",
+    "productos": [
+      {
+        "nombre": "Arepa",
+        "cantidad": "2",
+        "precioUnitario": "50000"
+      },
+      {
+        "nombre": "Papa guisada",
+        "cantidad": "2",
+        "precioUnitario": "15000"
+      },
+      {
+        "nombre": "Ensalada",
+        "cantidad": "2",
+        "precioUnitario": "12000"
+      },
+      {
+        "nombre": "Arroz Mixto",
+        "cantidad": "2",
+        "precioUnitario": "35000"
+      },
+      {
+        "nombre": "Papa",
+        "cantidad": "2",
+        "precioUnitario": "10000"
+      }
+    ],
+    "total": 244000,
+    "id": "1711738408146"
+  },
+  {
+    "mesero": "juandi",
+    "productos": [
+      {
+        "nombre": "Papa guisada",
+        "cantidad": "133",
+        "precioUnitario": "15000"
+      }
+    ],
+    "total": 1995000,
+    "id": "1711748398661"
+  },
+  {
+    "mesero": "diegojuan",
+    "productos": [
+      {
+        "nombre": "Arepa",
+        "cantidad": "22",
+        "precioUnitario": "50000"
+      }
+    ],
+    "total": 1100000
+  },
+  {
+    "mesero": "diegojuan",
+    "productos": [
+      {
+        "nombre": "Arepa",
+        "cantidad": "22",
+        "precioUnitario": "50000"
+      }
+    ],
+    "total": 1100000,
+    "id": "1711749629896"
+  },
+  {
+    "mesero": "juan",
+    "productos": [
+      {
+        "nombre": "Arroz Mixto",
+        "cantidad": "2",
+        "precioUnitario": "35000"
+      },
+      {
+        "nombre": "Arepa",
+        "cantidad": "3",
+        "precioUnitario": "50000"
+      }
+    ],
+    "total": 220000,
+    "id": "1711749891893"
+  },
+  {
+    "mesero": "camilo",
+    "productos": [
+      {
+        "nombre": "Papa guisada",
+        "cantidad": "2",
+        "precioUnitario": "15000"
+      }
+    ],
+    "total": 30000,
+    "id": "1711750652728"
+  },
+  {
+    "mesero": "juancamilo",
+    "productos": [
+      {
+        "nombre": "Papa guisada",
+        "cantidad": "3",
+        "precioUnitario": "15000"
+      }
+    ],
+    "total": 45000,
+    "id": "1711750798120"
+  },
+  {
+    "mesero": "felipe",
+    "productos": [
+      {
+        "nombre": "Ensalada",
+        "cantidad": "2",
+        "precioUnitario": "12000"
+      }
+    ],
+    "total": 24000,
+    "id": "1711751061150"
+  }
+]
