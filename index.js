@@ -19,6 +19,11 @@ app.get('/modificar', (req, res) => {
   res.json(pedidos);
 });
 
+app.get('/', (req, res) => {
+  res.send('¡Bienvenido al servidor!');
+});
+
+
 app.put('/modificar/:id', (req, res) => {
   const { id } = req.params;
   const { estadoPedido } = req.body;
